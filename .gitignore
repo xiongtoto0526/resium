@@ -9,3 +9,4 @@ node_modules
 /examples/build
 /example/package-lock.json
 /example/yarn.lock
+.idea/
